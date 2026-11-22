@@ -1,0 +1,22 @@
+{
+  "wheel_id": 947,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-111",
+  "project": "seo-services-brisbane-before-you-start-c64a0a719ff0ecc0a9189737",
+  "parent_t1_ref": "theseocompanybrisbane-156",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane before you start",
+  "intended_url": "https://sitesau.github.io/theseocompanybrisbane-111/",
+  "tier": "T2",
+  "writeback_nonce": "443c4c332c32f597",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-myths-5fafb2d283496b92a478d9c97c26fee8613/",
+      "anchor": "more on seo services brisbane myths",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
